@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on the [icatproject](https://github.com/icatproject)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy baking bread :bread:
-
-![avatar](https://stuartpullinger.github.io/github_avatar_animated.svg)
 <!--
+![avatar](https://stuartpullinger.github.io/github_avatar_animated.svg)
+
 **stuartpullinger/stuartpullinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
