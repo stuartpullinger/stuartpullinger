@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="github_avatar_animated.svg" alt="Stuart Pullinger's Avatar">
+<img src="stuartpullinger/stuartpullinger/github_avatar_animated.svg" alt="Stuart Pullinger's Avatar">
 <!--
 **stuartpullinger/stuartpullinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
