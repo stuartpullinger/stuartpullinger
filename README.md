@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the [icatproject](https://github.com/icatproject)
+- 🔭 I’m joining [Synamedia](https://github.com/Synamedia)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy baking bread :bread:
 <!--
