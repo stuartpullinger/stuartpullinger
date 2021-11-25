@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m joining [Synamedia](https://github.com/Synamedia)
+- 🔭 Lead Software Engineer at [Synamedia](https://github.com/Synamedia)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy baking bread :bread:
 <!--
