@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Lead Software Engineer at [Synamedia](https://github.com/Synamedia)
+- 🥕 Senior Software Engineer at [Oddbox](https://www.oddbox.co.uk/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy baking bread :bread:
 <!--
