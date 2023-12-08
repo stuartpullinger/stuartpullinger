@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🥕 Senior Software Engineer at [Oddbox](https://www.oddbox.co.uk/)
+- 🥕 Data Engineer at [Nominet](https://nominet.uk/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy baking bread :bread:
 <!--
